@@ -1,6 +1,6 @@
 name: Samantha Ross
 favicon: null
-layout_spectrum: 0.4517027516849339
+layout_spectrum: 0.24829
 typography_spectrum: 0.12984380684792995
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.08603725722059608
-  lightness: 0.13954288745298982
-  saturation: 0.9591920301318169
-  rhythmicContrast: 0.10317962244153023
+    - '#01001f'
+    - '#4e2537'
+    - '#f4ab83'
+    - '#90ab71'
+    - '#ff615c'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
